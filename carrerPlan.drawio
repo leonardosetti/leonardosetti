@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-13T14:53:21.642Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Qv6mprhEg54D7ixfx4jH" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-13T16:17:40.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tbYttHVyjtT4vhzVJ5fs" version="22.1.0" type="github">
   <diagram name="Página-1" id="chwQx0JdfIHZjnVbPdvP">
     <mxGraphModel dx="880" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="30" height="60" as="geometry" />
+          <mxGeometry x="365" y="260" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q1AjGJeCbUGvfgJgJBu3-4" target="Q1AjGJeCbUGvfgJgJBu3-5">
           <mxGeometry relative="1" as="geometry" />
@@ -31,28 +31,28 @@
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q1AjGJeCbUGvfgJgJBu3-5" target="Q1AjGJeCbUGvfgJgJBu3-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="200" />
-              <mxPoint x="440" y="200" />
+              <mxPoint x="380" y="210" />
+              <mxPoint x="380" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-5" value="wanted knowledge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-6" value="Inspring People" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="200" height="200" as="geometry" />
+          <mxGeometry x="40" y="480" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-7" value="need Improvment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-8" value="weaknesses" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-9" value="wanted positions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-10" value="near to reach&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q1AjGJeCbUGvfgJgJBu3-11" value="next steps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
