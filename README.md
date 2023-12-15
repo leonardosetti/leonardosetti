@@ -1,9 +1,10 @@
 ### Hi there! How are you?
-<img alt="Static Badge" src="https://img.shields.io/badge/NERD-orange?style=for-the-badge&logo=archlinux&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/AUTOMATION-orange?style=for-the-badge&logo=selenium&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Cypress-orange?style=for-the-badge&logo=cypress&labelColor=%23010a20">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&labelColor=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Test-orange?style=for-the-badge&logo=cucumber&labelColor=%23010a20">
+
+[<img alt="Static Badge" src="https://img.shields.io/badge/NERD-orange?style=for-the-badge&logo=archlinux&labelColor=black" />](#)
+[<img alt="Static Badge" src="https://img.shields.io/badge/AUTOMATION-orange?style=for-the-badge&logo=selenium&labelColor=black" />](#)
+[<img alt="Static Badge" src="https://img.shields.io/badge/Cypress-orange?style=for-the-badge&logo=cypress&labelColor=%23010a20" />](#)
+[<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-orange?style=for-the-badge&logo=javascript&labelColor=black" />](#)
+[<img alt="Static Badge" src="https://img.shields.io/badge/Test-orange?style=for-the-badge&logo=cucumber&labelColor=%23010a20" />](#)
 
 
 My name is Leonardo Setti, but you can call me Leo or Setti. Technology has fascinated me since the early 2000s, when I wondered "*how does the internet work?*" or "*what would happen if I pressed this button*?
@@ -18,7 +19,8 @@ As I am involved in software development, quality assurance, and a lot of revers
 But there is another side to it: the character, the main actor with the experience and confidence to achieve new knowledge, the soft skills over the hard skills.
 
 So, now I am struggling and working hard to reach the level of automation hero and all those shiny pendants!
-[_And, I'll be there!_<img alt="Static Badge" src="https://img.shields.io/badge/%3Awq!-orange?logo=vim&logoColor=green&labelColor=grey"/>](#hi-there-how-are-you)
+_And, I'll be there!_
+[<img alt="Static Badge" src="https://img.shields.io/badge/%3Awq!-orange?logo=vim&logoColor=green&labelColor=grey"/>](#hi-there-how-are-you)
 
 
 ---
