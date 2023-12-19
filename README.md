@@ -21,10 +21,11 @@ But there is another side to it: the character, the main actor with the experien
 
 So, now I am struggling and working hard to reach the level of automation hero and all those shiny pendants!
 _And, I'll be there!_
+
 [<img alt="Static Badge" src="https://img.shields.io/badge/%3Awq!-orange?logo=vim&logoColor=green&labelColor=grey"/>](#hi-there-how-are-you)
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=leonardosetti&theme=gruvbox&show_icons=true&hide=stars,issues,contribs)]
+![Stats](https://github-readme-stats.vercel.app/api?username=leonardosetti&theme=gruvbox&show_icons=true&hide=stars,issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosetti&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact)
