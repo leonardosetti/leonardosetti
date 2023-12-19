@@ -25,6 +25,6 @@ _And, I'll be there!_
 
 ---
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=leonardosetti&theme=gruvbox&show_icons=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=leonardosetti&theme=gruvbox&show_icons=true&hide=stars,issues,contribs)]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardosetti&size_weight=0.5&count_weight=0.5&langs_count=6&layout=compact)
