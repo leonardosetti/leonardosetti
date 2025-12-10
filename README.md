@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=gray&labelColor=%23F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=%23dad8d8&labelColor=%23181717)](https://github.com/leonardosetti)
 [![Static Badge](https://img.shields.io/badge/Arch%20Linux-%231793D1?logo=archlinux&logoColor=%23dad8d8&labelColor=%231793D1)](https://archlinux.org/)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23dad8d8&labelColor=%230A66C2)](https://linkedin.com/in/leonardo-setti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-setti)
 
 
 # Leonardo David Silva Setti
